@@ -4,7 +4,7 @@
   "description": "REST API service for banking application.",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json -H peaceful-stonebraker-370784.netlify.app"
+    "start": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
