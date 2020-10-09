@@ -2,9 +2,9 @@
   "name": "banking-api",
   "version": "1.0.0",
   "description": "REST API service for banking application.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
