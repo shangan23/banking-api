@@ -1,2 +1,3 @@
-# banking-api
-API service for banking application.
+# Banking REST Api
+API services for banking application.
+
